@@ -1,0 +1,2 @@
+rootProject.name='RFID-Demo'
+include ':app'
